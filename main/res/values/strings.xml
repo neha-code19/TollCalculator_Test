@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YourName_MAPD711_Test</string>
+    <string name="light_vehicle">Light \n Vehicle</string>
+    <string name="heavy_vehicle">Heavy \n Vehicle</string>
+    <string name="heavy_multi_vehicle">Heavy \n Multi \n Vehicle</string>
+    <string name="time_of_day">Time of Day</string>
+</resources>
